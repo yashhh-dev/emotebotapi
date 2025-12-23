@@ -1,5 +1,3 @@
-from config import UID as Uid, PW as Pw, BOT_UID
-
 # By AbdeeLkarim BesTo
 
 import requests , json , binascii , time , urllib3 , base64 , datetime , re ,socket , threading , random , os , asyncio

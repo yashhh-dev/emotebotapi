@@ -1,4 +1,4 @@
-from config import UID as Uid, PW as Pw, BOT_UID
+Uid, Pw = '4346202329','4A200451676C4629E5D90F60B6113E73B650C94D7C20CBCA5F69978991648D12'
 
 import requests , os , psutil , sys , jwt , pickle , json , binascii , time , urllib3 , base64 , datetime , re , socket , threading , ssl , pytz , aiohttp
 from flask import Flask, request, jsonify
